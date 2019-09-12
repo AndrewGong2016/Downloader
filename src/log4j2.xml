@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="OFF">
+
+  <appenders>
+    <File name="MyFile" fileName="logs/app.log">
+      <PatternLayout>
+        <Pattern>%d [%t] %-5level %logger{36} - %msg%n</Pattern>
+      </PatternLayout>
+    </File>
+    
+    <Console name="STDOUT" target="SYSTEM_OUT">
+      <PatternLayout pattern="%m%n"/>
+    </Console>
+    
+  </appenders>
+  
+  <loggers>
+    <Root level="trace">
+      <appender-ref ref="MyFile"/>
+    </Root>
+  </loggers>
+</configuration>

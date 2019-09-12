@@ -1,0 +1,67 @@
+2019-09-01 14:28:29,774 ERROR c.g.d.Downloader [main] Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:28:29,790 WARN c.g.d.Downloader [main] Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:28:29,790 INFO c.g.d.Downloader [main] Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:28:29,790 DEBUG c.g.d.Downloader [main] Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:28:29,790 TRACE c.g.d.Downloader [main] Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:29:48,725 ERROR c.g.d.Downloader [main] Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:29:48,741 WARN c.g.d.Downloader [main] Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:29:48,741 INFO c.g.d.Downloader [main] Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:29:48,741 DEBUG c.g.d.Downloader [main] Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:29:48,741 TRACE c.g.d.Downloader [main] Hello,Welcome 22222 to my downloader: Guan
+14:31:05.184 [main] ERROR com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+14:31:05.187 [main] WARN  com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+14:31:05.187 [main] INFO  com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+14:31:05.187 [main] DEBUG com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+14:31:05.187 [main] TRACE com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:32:29,133 [main] ERROR com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:32:29,133 [main] WARN  com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:32:29,133 [main] INFO  com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:32:29,133 [main] DEBUG com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:32:29,133 [main] TRACE com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:37:10,602 [main] ERROR com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:37:10,602 [main] WARN  com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:37:10,602 [main] INFO  com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:37:10,602 [main] DEBUG com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:37:10,602 [main] TRACE com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:37:27,625 [main] ERROR com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:37:27,640 [main] WARN  com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:37:27,640 [main] INFO  com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:37:27,640 [main] DEBUG com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:37:27,640 [main] TRACE com.guan.download.Downloader - Hello,Welcome 22222 to my downloader: Guan
+2019-09-01 14:46:09,073 [main] INFO  com.guan.download.Downloader - Hello,Welcome to my downloader: Guan
+2019-09-01 14:46:09,214 [main] DEBUG com.guan.download.Downloader - Local directory already exists [D:\PACs\10.0.1.110\Hudson\ShareData\CSDataRelease\Test_Products_Library\sprdroidq_trunk\MOCORDROIDQ_Trunk_SHARKL5PRO\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\Images] 
+2019-09-01 14:46:09,214 [main] INFO  com.guan.download.Downloader - File Existed, Exit download...
+2019-09-01 14:47:14,815 [main] INFO  com.guan.download.Downloader - Hello,Welcome to my downloader: Guan
+2019-09-01 14:47:14,831 [main] DEBUG com.guan.download.Downloader - File path :\\\\10.0.1.110\\Hudson\\ShareData\\CSDataRelease\\Test_Products_Library\\sprdroidq_trunk\\MOCORDROIDQ_Trunk_SHARKL5PRO\\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\\Images\\BT_Version
+2019-09-01 14:47:14,940 [main] DEBUG com.guan.download.Downloader - Local directory already exists [D:\PACs\10.0.1.110\Hudson\ShareData\CSDataRelease\Test_Products_Library\sprdroidq_trunk\MOCORDROIDQ_Trunk_SHARKL5PRO\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\Images] 
+2019-09-01 14:47:14,940 [main] INFO  com.guan.download.Downloader - File Existed, Exit download...
+2019-09-01 14:49:35,955 [main] INFO  com.guan.download.Downloader - Hello,Welcome to my downloader: Guan
+2019-09-01 14:49:35,971 [main] DEBUG com.guan.download.Downloader - File path :\\\\10.0.1.110\\Hudson\\ShareData\\CSDataRelease\\Test_Products_Library\\sprdroidq_trunk\\MOCORDROIDQ_Trunk_SHARKL5PRO\\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\\Images\\BT_Version
+2019-09-01 14:49:36,002 [main] DEBUG com.guan.download.Downloader - Local directory already exists [D:\PACs\10.0.1.110\Hudson\ShareData\CSDataRelease\Test_Products_Library\sprdroidq_trunk\MOCORDROIDQ_Trunk_SHARKL5PRO\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\Images] 
+2019-09-01 14:49:36,002 [main] INFO  com.guan.download.Downloader - File Existed, Exit download...
+2019-09-01 14:56:00,986 [main] INFO  com.guan.download.Downloader - Hello,Welcome to my downloader: Guan
+2019-09-01 14:56:00,986 [main] DEBUG com.guan.download.Downloader - File path :\\\\10.0.1.110\\Hudson\\ShareData\\CSDataRelease\\Test_Products_Library\\sprdroidq_trunk\\MOCORDROIDQ_Trunk_SHARKL5PRO\\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\\Images\\BT_Version
+2019-09-01 14:56:17,366 [main] DEBUG com.guan.download.Downloader - Local directory already exists [D:\PACs\10.0.1.110\Hudson\ShareData\CSDataRelease\Test_Products_Library\sprdroidq_trunk\MOCORDROIDQ_Trunk_SHARKL5PRO\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\Images] 
+2019-09-01 14:56:17,366 [main] INFO  com.guan.download.Downloader - File Existed, Exit download...
+2019-09-01 14:56:37,900 [main] INFO  com.guan.download.Downloader - Hello,Welcome to my downloader: Guan
+2019-09-01 14:56:37,900 [main] DEBUG com.guan.download.Downloader - File path :\\\\10.0.1.110\\Hudson\\ShareData\\CSDataRelease\\Test_Products_Library\\sprdroidq_trunk\\MOCORDROIDQ_Trunk_SHARKL5PRO\\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\\Images\\BT_Version
+2019-09-01 14:56:39,600 [main] DEBUG com.guan.download.Downloader - Local directory already exists [D:\PACs\10.0.1.110\Hudson\ShareData\CSDataRelease\Test_Products_Library\sprdroidq_trunk\MOCORDROIDQ_Trunk_SHARKL5PRO\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\Images] 
+2019-09-01 14:56:44,718 [main] INFO  com.guan.download.Downloader - sum (byte):10240
+2019-09-01 14:56:46,356 [main] INFO  com.guan.download.Downloader - sum (byte):13340
+2019-09-01 14:56:46,356 [main] DEBUG com.guan.download.Downloader - outPut path:D:\PACs\10.0.1.110\Hudson\ShareData\CSDataRelease\Test_Products_Library\sprdroidq_trunk\MOCORDROIDQ_Trunk_SHARKL5PRO\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\Images\BT_Version
+2019-09-02 08:33:11,806 [main] INFO  com.guan.download.Downloader - Hello,Welcome to my downloader: Guan
+2019-09-02 08:33:11,809 [main] DEBUG com.guan.download.Downloader - File path :\\\\10.0.1.110\\Hudson\\ShareData\\CSDataRelease\\Test_Products_Library\\sprdroidq_trunk\\MOCORDROIDQ_Trunk_SHARKL5PRO\\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\\Images\\BT_Version
+2019-09-02 08:33:11,956 [main] DEBUG com.guan.download.Downloader - Local directory already exists [D:\PACs\10.0.1.110\Hudson\ShareData\CSDataRelease\Test_Products_Library\sprdroidq_trunk\MOCORDROIDQ_Trunk_SHARKL5PRO\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\Images] 
+2019-09-02 08:33:11,957 [main] INFO  com.guan.download.Downloader - File Existed, Exit download...
+2019-09-02 08:51:52,607 [main] INFO  com.guan.download.Downloader - Hello,Welcome to my downloader: Guan
+2019-09-02 08:51:52,622 [main] DEBUG com.guan.download.Downloader - File path :\\\\10.0.1.110\\Hudson\\ShareData\\CSDataRelease\\Test_Products_Library\\sprdroidq_trunk\\MOCORDROIDQ_Trunk_SHARKL5PRO\\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\\Images\\BT_Version
+2019-09-02 08:52:15,121 [main] DEBUG com.guan.download.Downloader - Local directory already exists [D:\PACs\10.0.1.110\Hudson\ShareData\CSDataRelease\Test_Products_Library\sprdroidq_trunk\MOCORDROIDQ_Trunk_SHARKL5PRO\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\Images] 
+2019-09-02 08:52:15,121 [main] INFO  com.guan.download.Downloader - File Existed, Exit download...
+2019-09-07 11:24:46,653 [main] INFO  com.guan.download.Downloader - Hello,Welcome to my downloader: Guan
+2019-09-07 11:24:46,747 [main] DEBUG com.guan.download.Downloader - File path :\\\\10.0.1.110\\Hudson\\ShareData\\CSDataRelease\\Test_Products_Library\\sprdroidq_trunk\\MOCORDROIDQ_Trunk_SHARKL5PRO\\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\\Images\\BT_Version
+2019-09-07 11:24:46,934 [main] DEBUG com.guan.download.Downloader - Local directory already exists [D:\PACs\10.0.1.110\Hudson\ShareData\CSDataRelease\Test_Products_Library\sprdroidq_trunk\MOCORDROIDQ_Trunk_SHARKL5PRO\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\Images] 
+2019-09-07 11:24:46,934 [main] INFO  com.guan.download.Downloader - File Existed, Exit download...
+2019-09-12 19:49:23,336 [main] INFO  com.guan.download.Downloader - Hello,Welcome to my downloader: Guan
+2019-09-12 19:49:23,364 [main] DEBUG com.guan.download.Downloader - File path :\\\\10.0.1.110\\Hudson\\ShareData\\CSDataRelease\\Test_Products_Library\\sprdroidq_trunk\\MOCORDROIDQ_Trunk_SHARKL5PRO\\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\\Images\\BT_Version
+2019-09-12 19:49:43,686 [main] DEBUG com.guan.download.Downloader - Local directory already exists [D:\PACs\10.0.1.110\Hudson\ShareData\CSDataRelease\Test_Products_Library\sprdroidq_trunk\MOCORDROIDQ_Trunk_SHARKL5PRO\MOCORDROIDQ_Trunk_SHARKL5PRO_W19.35.5\Images] 
+2019-09-12 19:49:43,686 [main] INFO  com.guan.download.Downloader - File Existed, Exit download...
