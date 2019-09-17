@@ -7,12 +7,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.net.URLConnection;
 import java.util.List;
-
-import static com.guan.download.Configuration.*;
-import static com.guan.download.PrintUtil.*;
-
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -25,7 +20,7 @@ public class Downloader {
 	
 	public static void main(String[] args) {
 		logger.info("Hello,Welcome to my downloader: Guan");
-		List<String> fileStrings = getConfigLines();
+		List<String> fileStrings = Configuration.getUrls();
 
 		for (String file : fileStrings) {
 			logger.debug("File path :"+file);
